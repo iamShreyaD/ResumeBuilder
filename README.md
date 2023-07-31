@@ -17,3 +17,9 @@ Credits: https://github.com/prabinmagar
 
 ![screencapture-127-0-0-1-5500-ResumeBuilder-index-html-2023-07-31-07_38_24](https://github.com/iamShreyaD/ResumeBuilder/assets/70312732/6035234d-b7e9-41af-80da-cb0ce5e64de6)
 
+
+
+
+![screencapture-127-0-0-1-5500-ResumeBuilder-resume-html-2023-07-31-07_39_40](https://github.com/iamShreyaD/ResumeBuilder/assets/70312732/fbd57f06-f9a2-4d61-ab90-f98d12e106e9)
+
+
